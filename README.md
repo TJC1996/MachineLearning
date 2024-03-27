@@ -8,4 +8,4 @@ My Machine Learning Course
 2. git add {filenameyouwanttoadd}
 3. git status
 4. git commit -m "Commit Message -> Usually First Commit ( classic message ) "
-5. git push origin master
+5. git push origin main
